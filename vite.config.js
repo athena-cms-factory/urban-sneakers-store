@@ -23,4 +23,11 @@ export default defineConfig({
     tailwindcss(),
     athenaEditorPlugin ? athenaEditorPlugin() : null
   ].filter(Boolean),
+
+  server: {
+      cors: true,
+      host: true,
+      port: parseInt(process.env.PORT) || 5100,
+      allowedHosts: true
+    },
 })
