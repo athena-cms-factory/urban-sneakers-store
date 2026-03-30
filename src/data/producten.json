@@ -43,5 +43,32 @@
     "categorie": "Performance",
     "populair": "Nee",
     "image_prompt": "clean studio shot of Trail Blazer X sneaker, rugged design with teal accents, neutral background"
+  },
+  {
+    "naam": "Urban Gravity Low-Top",
+    "prijs": "124.95",
+    "afbeelding-url": "6.jpeg",
+    "beschrijving": "Een minimalistische sneaker met een futuristische twist. De Urban Gravity combineert een lichtgewicht mesh bovenwerk met een responsieve zool voor maximaal comfort tijdens dagelijks gebruik.",
+    "categorie": "Lifestyle",
+    "populair": "Nee",
+    "image_prompt": "clean studio shot of Urban Gravity Low-Top sneaker, monochromatic grey with subtle blue accents, neutral background"
+  },
+  {
+    "naam": "Neon Flux Runner",
+    "prijs": "159.00",
+    "afbeelding-url": "7.jpeg",
+    "beschrijving": "Ontworpen voor snelheid en zichtbaarheid. De Neon Flux Runner is jouw perfecte partner voor nachtelijke runs, met reflecterende elementen en een uiterst schokbestendige zool voor top-prestaties.",
+    "categorie": "Performance",
+    "populair": "Ja",
+    "image_prompt": "clean studio shot of Neon Flux Runner sneaker, bright neon yellow and black contrast, aerodynamic shape, neutral background"
+  },
+  {
+    "naam": "Classic Zenith 1990",
+    "prijs": "89.99",
+    "afbeelding-url": "snkr-006.jpg",
+    "beschrijving": "Een moderne remake van de iconische Zenith serie. Deze sneaker brengt de jaren 90 look terug met hoogwaardige leersoorten en de vertrouwde pasvorm waar we van houden.",
+    "categorie": "Classics",
+    "populair": "Nee",
+    "image_prompt": "clean studio shot of Classic Zenith 1990 sneaker, white leather with forest green stripes, retro chunky sole, neutral background"
   }
 ]
