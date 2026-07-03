@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const STORE_PATH = '/home/kareltestspecial/0-IT/2-Productie/athena/sites/urban-sneakers-store';
+const STORE_PATH = '/home/kareltestspecial/1-IT/2-Productie/athena/sites/urban-sneakers-store';
 const IMAGES_DIR = path.join(STORE_PATH, 'public/images');
 const PRODUCTS_FILE = path.join(STORE_PATH, 'src/data/producten.json');
 
